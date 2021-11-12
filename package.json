@@ -1,0 +1,25 @@
+{
+  "name": "pantone-web",
+  "version": "1.0.0",
+  "description": "a web app to quickly look up pantone colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catdad-experiments/pantone-web.git"
+  },
+  "keywords": [],
+  "author": "Kiril Vatev <vatev.1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catdad-experiments/pantone-web/issues"
+  },
+  "homepage": "https://github.com/catdad-experiments/pantone-web#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "serve": "^13.0.2"
+  }
+}

@@ -1,0 +1,33 @@
+import {
+  createContext,
+  html,
+  render,
+  useCallback,
+  useContext,
+  useDebugValue,
+  useEffect,
+  useErrorBoundary,
+  useImperativeHandle,
+  useLayoutEffect,
+  useMemo,
+  useReducer,
+  useRef,
+  useState,
+} from 'https://cdn.jsdelivr.net/npm/htm@3.1.0/preact/standalone.module.js';
+
+export {
+  createContext,
+  html,
+  render,
+  useCallback,
+  useContext,
+  useDebugValue,
+  useEffect,
+  useErrorBoundary,
+  useImperativeHandle,
+  useLayoutEffect,
+  useMemo,
+  useReducer,
+  useRef,
+  useState,
+};
